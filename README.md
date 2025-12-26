@@ -1,4 +1,11 @@
-# Customer Segmentation Project (RFM Analysis)
+# Customer Purchase Behavior: RFM Segmentation Pipeline
+
+```mermaid
+graph TD
+    A[Raw Data] --> B[1_Staging: Cleaned Data]
+    B --> C[2_Intermediate: RFM Scores]
+    C --> D[3_Marts: Final Segments]
+```
 
 This is a SQL-based project where I built a data pipeline to analyze how customers are buying products. The main goal was to take raw, messy purchase data and turn it into something a marketing team could actually use to target different customer groups.
 
