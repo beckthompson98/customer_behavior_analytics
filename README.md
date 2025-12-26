@@ -24,7 +24,7 @@ I used the "Medallion Architecture" to keep everything organized. Instead of doi
 ### Why this matters
 By the end of the pipeline, you can clearly see which customers are the most valuable and which ones haven't shopped in a while and might need a discount code to come back.
 
-![Customer Segmentation Results](customer_segmentation_chart.png)
+![Customer Segmentation Results](data/Code_Generated_Image.png)
 
 ### Skills Used
 * **Data Cleaning:** Handling NULL values and formatting dates.
